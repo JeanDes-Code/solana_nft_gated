@@ -6,4 +6,4 @@ Your wallet should be connected to the devnet and contain SOL tokens.
 
 Check this address to get Solana devnet tokens for free <https://thirdweb.com/faucet/solana>.
 
-The project was made using thirdweb <https://thirdweb.com/>, Solana, Next.js and TailwindCSS.
+The project was made using thirdweb <https://thirdweb.com/>, Solana, Next.js (typescript) and TailwindCSS.
